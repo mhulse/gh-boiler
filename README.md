@@ -20,15 +20,15 @@ Further documentation and examples can be found in [this project's wiki](https:/
 
 #### DEMO
 
-[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/registerguard/ghboiler/&chs=240x240)](https://github.com/registerguard/ghboiler/)
+[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/user/repo/&chs=240x240)](http://user.github.com/repo/demo/)
 
-(Scan QR code with phone and/or click to [view the latest demo](https://github.com/registerguard/ghboiler/).)
+(Scan QR code with phone and/or click to [view the latest demo](http://user.github.com/repo/demo/).)
 
 ---
 
 #### LEGAL
 
-Copyright © 2012 [First Last](http://site.com)
+Copyright © 2013 [First Last](http://site.com)/[Company Name](http://foo.com)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
 

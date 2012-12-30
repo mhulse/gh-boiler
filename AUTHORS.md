@@ -1,3 +1,3 @@
 # Authors
 
-* Micky Hulse ([@mhulse](https://github.com/mhulse))
+* First Last ([@user](https://github.com/user))
