@@ -1,2 +1,2 @@
 include *.md
-+include LICENSE
+include LICENSE
