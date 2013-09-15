@@ -20,7 +20,7 @@
 - [Links](#links)
 	- [GitHub](#github)
 	- [Markdown](#markdown)
-	- [Choosing a license](#choosing-a-license)
+	- [Licensing](#licensing)
 - [Feedback](#feedback)
 - [Release history](#release-history)
 - [LEGAL](#legal)
@@ -69,8 +69,15 @@ A quick brown fox jumps over the lazy dog.
 ### GitHub:
 
 * [GitHub help](https://help.github.com/)
-* [GitHub for Mac](http://mac.github.com/)
-* [GitHub for Windows](http://windows.github.com/)
+	* [Setting up a custom domain with Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
+	* [GitHub Pages](https://help.github.com/categories/20/articles)
+* [The GitHub Blog](https://github.com/blog/):
+	* [New Features](https://github.com/blog/category/ship)
+	* [Broadcasts](https://github.com/blog/broadcasts)
+* [Apps](http://git-scm.com/downloads/guis):
+	* [GitHub Mobile](http://mobile.github.com/)
+	* [GitHub for Mac](http://mac.github.com/)
+	* [GitHub for Windows](http://windows.github.com/)
 
 ### Markdown:
 
@@ -78,7 +85,7 @@ A quick brown fox jumps over the lazy dog.
 * [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Choosing a license:
+### Licensing:
 
 * [Choose an OSS License](http://choosealicense.com/)
 
