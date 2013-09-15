@@ -1,13 +1,9 @@
-<!--
-	http://github.github.com/github-flavored-markdown/
-	http://daringfireball.net/projects/markdown/syntax
-	https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
--->
-
 # GitHub boiler
 
 [![ScreenShot](top.png)](#)
-**Lorem ipsum**
+**A quick brown fox jumps over the lazy dog.**
+
+---
 
 ## Table of contents
 
@@ -21,6 +17,10 @@
 	- [Subsection E](#subsection-e)
 - [Demonstration](#demonstration)
 - [Installation](#installation)
+- [Links](#links)
+	- [GitHub](#github)
+	- [Markdown](#markdown)
+	- [Choosing a license](#choosing-a-license)
 - [Feedback](#feedback)
 - [Release history](#release-history)
 - [LEGAL](#legal)
@@ -64,6 +64,24 @@ A quick brown fox jumps over the lazy dog.
 1. Lorem ipsum dolor sit amet.
 1. Lorem ipsum dolor sit amet.
 
+## Links
+
+### GitHub:
+
+* [GitHub help](https://help.github.com/)
+* [GitHub for Mac](http://mac.github.com/)
+* [GitHub for Windows](http://windows.github.com/)
+
+### Markdown:
+
+* [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
+* [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Choosing a license:
+
+* [Choose an OSS License](http://choosealicense.com/)
+
 ## Feedback
 
 [Bugs? Constructive feedback? Questions?](https://github.com/mhulse/gh-boiler/issues)
@@ -81,7 +99,6 @@ Copyright &copy; YYYY [First Last](#)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
 
-<!-- See: http://choosealicense.com/ -->
 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
