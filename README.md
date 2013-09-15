@@ -1,106 +1,81 @@
-# Title
+# GitHub boiler
 
-### Description.
+[![ScreenShot](top.png)](#)
+**Lorem ipsum**
 
----
+## Table of contents
 
-#### SUBHEAD
+<img align="right" width="200" src="side.png">
 
-* Item
-* Item
-* Item
+- [About](#about)
+	- [Subsection A](#subsection-a)
+	- [Subsection B](#subsection-b)
+	- [Subsection C](#subsection-c)
+	- [Subsection D](#subsection-d)
+	- [Subsection E](#subsection-e)
+- [Demonstration](#demonstration)
+- [Installation](#installation)
+- [Feedback](#feedback)
+- [Release history](#release-history)
+- [LEGAL](#legal)
 
----
+## About
 
-#### INFO
+A quick brown fox jumps over the lazy dog.
 
-Further documentation and examples can be found in [this project's wiki](https://github.com/registerguard/ghboiler/wiki).
+### Subsection A:
 
----
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-#### DEMO
+### Subsection B:
 
-[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/user/repo/&chs=240x240)](http://user.github.com/repo/demo/)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-(Scan QR code with phone and/or click to [view the latest demo](http://user.github.com/repo/demo/).)
+### Subsection C:
 
----
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-#### INSTALLATION
+### Subsection D:
 
-Install using [`pip`](http://www.pip-installer.org/):
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-```bash
-$ sudo pip install -e git+https://github.com/user/repository.git#egg=XXXXXX
-```
+### Subsection E:
 
-Add `'app_name',` to your `installed_apps` setting.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Put this in your URLs:
+## Demonstration
 
-```python
-(r'^foo/', include('app_name.urls')),
-```
+DEVELOPMENT | PRODUCTION
+:-: | :-:
+[![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://user.github.io/repo/&chs=240x240)](https://github.com/user/repo) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://user.github.io/repo/&chs=240x240)](https://github.com/user/repo)
 
-Run:
+## Installation
 
-```bash
-$ sudo service apache2 restart
-```
+A quick brown fox jumps over the lazy dog.
 
-... or:
+1. Lorem ipsum dolor sit amet.
+1. Lorem ipsum dolor sit amet.
+1. Lorem ipsum dolor sit amet.
+1. Lorem ipsum dolor sit amet.
 
-```bash
-$ touch apache/django.wsgi
-```
+## Feedback
 
-... or whatever you need to do to reload things.
+[Bugs? Constructive feedback? Questions?](https://github.com/mhulse/gh-boiler/issues)
 
-Lastly:
+## [Release history](https://github.com/user/repo/releases)
 
-```bash
-$ python manage.py syncdb
-```
-
-... and you're ready to go (maybe do another `touch`?)!
-
-Enjoy your **Django App Name** app _today!_
-
----
-
-#### CONTRIBUTING
-
-**Submitting pull requests:**
-
-1. Create a new branch, please don't work in master directly.
-1. Add/write/modify code.
-1. Test your code (includes cross-browser tests).
-1. Fix stuff.
-1. Repeat steps 2-4 until done.
-1. Update the documentation to reflect any changes.
-1. Push to your fork and submit a pull request.
-
----
-
-#### SYNTAX
-
-* In general, use a 4-space tab for primary indentation alignment and then spaces on top of that for detail alignment (unless it's Python, then it's 4 spaces per indent).
-* No more than one assignment per var statement.
-* Delimit strings with single-quotes ', not double-quotes ".
-* Prefer if and else to "clever" uses of ? : conditional or ||, && logical operators.
-* Always add newline at the end of files.
-* When in doubt, follow the conventions you see used in the source already.
-* Lorem ipsum dolor sit amet.
-* ...
+* 2013-01-01   [v1.0.0](https://github.com/user/repo/releases/tag/v1.0.0)   Lorem ipsum dolor sit amet.
+* 1970-01-01   [v0.1.0](https://github.com/user/repo/releases/tag/v0.1.0)   Lorem ipsum dolor sit amet.
 
 ---
 
 #### LEGAL
 
-Copyright &copy; 2013 [First Last](http://site.com)/[Company Name](http://foo.com)
+Copyright &copy; YYYY [First Last](#)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
 
+<!-- See: http://choosealicense.com/ -->
 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
