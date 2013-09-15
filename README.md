@@ -1,3 +1,9 @@
+<!--
+	http://github.github.com/github-flavored-markdown/
+	http://daringfireball.net/projects/markdown/syntax
+	https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+-->
+
 # GitHub boiler
 
 [![ScreenShot](top.png)](#)
