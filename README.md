@@ -88,6 +88,7 @@ A quick brown fox jumps over the lazy dog.
 ### Licensing:
 
 * [Choose an OSS License](http://choosealicense.com/)
+* [Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)
 
 ## Feedback
 
