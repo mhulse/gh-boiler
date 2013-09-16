@@ -21,6 +21,7 @@
 	- [GitHub](#github)
 	- [Markdown](#markdown)
 	- [Licensing](#licensing)
+- [Contributing](#contributing)
 - [Feedback](#feedback)
 - [Release history](#release-history)
 - [LEGAL](#legal)
@@ -90,9 +91,13 @@ A quick brown fox jumps over the lazy dog.
 * [Choose an OSS License](http://choosealicense.com/)
 * [Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)
 
+## Contributing
+
+Please read the [CONTRIBUTING.md](https://github.com/user/repo/blob/branch/CONTRIBUTING.md).
+
 ## Feedback
 
-[Bugs? Constructive feedback? Questions?](https://github.com/mhulse/gh-boiler/issues)
+[Bugs? Constructive feedback? Questions?](https://github.com/user/repo/issues)
 
 ## [Release history](https://github.com/user/repo/releases)
 
