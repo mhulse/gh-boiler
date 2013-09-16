@@ -2,7 +2,7 @@
 
 ## v1.0.0
 
-#### January 1, 1970
+### January 1, 1970
 
 * Initial public release to GitHub.
 
@@ -32,12 +32,8 @@
 * Motorola Droid `4`, Android `4.0.4`
 	* Browser, Dolphin `9.3.1`
 
----
-
 ## vX.X.X
 
-#### Mmmmm [D]D, YYYY
+### Mmmmm [D]D, YYYY
 
 * ...
-
----
