@@ -5,6 +5,7 @@
 * text=auto
 
 *.afm binary
+*.ai binary
 *.cur binary
 *.dta binary
 *.eot binary
@@ -16,6 +17,8 @@
 *.pfb binary
 *.pickle binary
 *.png binary
+*.psb binary
+*.psd binary
 *.ttf binary
 *.vfb binary
 *.vfbak binary
