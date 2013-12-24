@@ -25,9 +25,25 @@ Please read the following guidelines before opening an issue.
 * Install [EditorConfig](http://editorconfig.org/) plugin for your code editor.
 * If you have commit access to this repository and want to make big change (or you're not sure about something), create a new branch and open a pull request.
 * CSS changes must be done in the "preprocessed" files; never edit the compiled files.
-* If modifying the "preprocessed" files, be sure to generate and commit a compiled version of the code. 
+* If modifying the "preprocessed" files, be sure to generate and commit a compiled version of the code.
 * Try not to pollute your pull request with unintended changes--keep them simple and small.
 * When applicable, try to share which browsers your code has been tested in before submitting a pull request.
+
+## Versioning
+
+Unless otherwise noted, the code in this repo will be maintained under the [Semantic Versioning guidelines](http://semver.org) as much as possible. Releases will be numbered with the following format:
+
+```text
+<major>.<minor>.<patch>
+```
+
+... and constructed with the following guidelines:
+
+* Breaking backward compatibility bumps the major (and resets the minor and patch).
+* New additions, including new icons, without breaking backward compatibility bumps the minor (and resets the patch).
+* Bug fixes and misc changes bumps the patch.
+
+For more information on Semantic Versioning, please visit http://semver.org.
 
 ## Coding standards
 
