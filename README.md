@@ -99,6 +99,10 @@ Please read the [CONTRIBUTING.md](https://github.com/user/repo/blob/branch/CONTR
 
 [Bugs? Constructive feedback? Questions?](https://github.com/mhulse/gh-boiler/issues/new?title=Nymphs%20blitz%20quick%20vex%20dwarf%20jog!&body=A%20very%20bad%20quack%20might%20jinx%20zippy%20fowls%20...)
 
+## Changelog
+
+* [v1.0.0 milestones](https://github.com/mhulse/gh-boiler/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
+
 ## [Release history](https://github.com/user/repo/releases)
 
 * 2013-01-01   [v1.0.0](https://github.com/user/repo/releases/tag/v1.0.0)   Lorem ipsum dolor sit amet.
