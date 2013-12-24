@@ -97,7 +97,7 @@ Please read the [CONTRIBUTING.md](https://github.com/user/repo/blob/branch/CONTR
 
 ## Feedback
 
-[Bugs? Constructive feedback? Questions?](https://github.com/user/repo/issues)
+[Bugs? Constructive feedback? Questions?](https://github.com/mhulse/gh-boiler/issues/new?title=Nymphs%20blitz%20quick%20vex%20dwarf%20jog!&body=A%20very%20bad%20quack%20might%20jinx%20zippy%20fowls%20...)
 
 ## [Release history](https://github.com/user/repo/releases)
 
