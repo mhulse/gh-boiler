@@ -24,3 +24,6 @@ indent_style = space
 
 [*.bat]
 end_of_line = crlf
+
+[CNAME]
+insert_final_newline = false
