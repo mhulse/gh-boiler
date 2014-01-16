@@ -26,7 +26,7 @@
 - [Release history](#release-history)
 - [LEGAL](#legal)
 
-## About
+## [[⬆]](#table-of-contents) About
 
 A quick brown fox jumps over the lazy dog.
 
@@ -50,13 +50,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## Demonstration
+## [[⬆]](#table-of-contents) Demonstration
 
 DEVELOPMENT | PRODUCTION
 :-: | :-:
 [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://user.github.io/repo/&chs=240x240)](https://github.com/user/repo) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://user.github.io/repo/&chs=240x240)](https://github.com/user/repo)
 
-## Installation
+## [[⬆]](#table-of-contents) Installation
 
 A quick brown fox jumps over the lazy dog.
 
@@ -65,7 +65,7 @@ A quick brown fox jumps over the lazy dog.
 1. Lorem ipsum dolor sit amet.
 1. Lorem ipsum dolor sit amet.
 
-## Links
+## [[⬆]](#table-of-contents) Links
 
 ### GitHub:
 
@@ -91,19 +91,19 @@ A quick brown fox jumps over the lazy dog.
 * [Choose an OSS License](http://choosealicense.com/)
 * [Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)
 
-## Contributing
+## [[⬆]](#table-of-contents) Contributing
 
 Please read the [CONTRIBUTING.md](https://github.com/user/repo/blob/branch/CONTRIBUTING.md).
 
-## Feedback
+## [[⬆]](#table-of-contents) Feedback
 
 [Bugs? Constructive feedback? Questions?](https://github.com/mhulse/gh-boiler/issues/new?title=Nymphs%20blitz%20quick%20vex%20dwarf%20jog!&body=A%20very%20bad%20quack%20might%20jinx%20zippy%20fowls%20...)
 
-## Changelog
+## [[⬆]](#table-of-contents) Changelog
 
 * [v1.0.0 milestones](https://github.com/mhulse/gh-boiler/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
 
-## [Release history](https://github.com/user/repo/releases)
+## [[⬆]](#table-of-contents) [Release history](https://github.com/user/repo/releases)
 
 * 2013-01-01   [v1.0.0](https://github.com/user/repo/releases/tag/v1.0.0)   Lorem ipsum dolor sit amet.
 * 1970-01-01   [v0.1.0](https://github.com/user/repo/releases/tag/v0.1.0)   Lorem ipsum dolor sit amet.
