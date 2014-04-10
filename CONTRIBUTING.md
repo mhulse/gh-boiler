@@ -47,7 +47,7 @@ For more information on Semantic Versioning, please visit http://semver.org.
 
 ## Coding standards
 
-In general, and for anything not listed below, take care to maintain the existing coding style of the document(s) your editing.
+In general, and for anything not listed below, take care to maintain the existing coding style of the document(s) you’re editing.
 
 ### Absolutely NO Yoda conditions!!!
 
