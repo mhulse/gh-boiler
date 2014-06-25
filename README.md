@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-	<a href="https://github.com/mhulse/gh-boiler">
-		<img width="200" src="side.png">
-	</a>
-</p>
-
 ## Table of contents
 
 <img align="right" width="200" src="side.png">
@@ -33,6 +27,12 @@
 - [LEGAL](#legal)
 
 ## About [↥](#table-of-contents)
+
+<p align="center">
+	<a href="https://github.com/mhulse/gh-boiler">
+		<img width="200" src="side.png">
+	</a>
+</p>
 
 A quick brown fox jumps over the lazy dog.
 
