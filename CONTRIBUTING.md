@@ -188,12 +188,13 @@ See above.
 **Comments:**
 
 * For indent-level single line comments, use a `#` character.
-    * If the comment refers to the line after, append a “:” (colon) to end of comment (unless comment calls for some other sort of punctuation).
+	* If the comment refers to the line after, append a “:” (colon) to end of comment (unless comment calls for some other sort of punctuation).
 * For single line comments at the end of code lines, use `//` characters.
-    * Because this comment refers to the line its on, put a period at end.
+	* Because this comment refers to the line its on, put a period at end.
 * For descriptive comments, it’s preferable to use [DocBlock comment styles](http://en.wikipedia.org/wiki/PHPDoc).
-    * From [PEP8](http://www.python.org/dev/peps/pep-0008/#maximum-line-length): **“For flowing long blocks of text (docstrings or comments), limiting the length to 72 characters is recommended.”** I’m not totally hardcore about this restriction, but I think it looks good and makes sense.
+	* From [PEP8](http://www.python.org/dev/peps/pep-0008/#maximum-line-length): **“For flowing long blocks of text (docstrings or comments), limiting the length to 72 characters is recommended.”** I’m not totally hardcore about this restriction, but I think it looks good and makes sense.
 * For all comments, use proper capitalization and punctuation.
+* Upper case AND, OR, AS, TRUE, FALSE, etc. Example: `foreach ($this->headers AS $key=>$value) { //… }`.
 
 Simple example:
 
