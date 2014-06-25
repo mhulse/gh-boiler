@@ -156,6 +156,7 @@ selector {
 1. Space after keywords and between arguments and operators.
 1. Don’t “[equality overkill](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/)”.
 1. Avoid [spaghetti code](http://en.wikipedia.org/wiki/Spaghetti_code) and try to have one exit point for methods.
+1. Always use curly braces around `if`s.
 
 ### Python (`.py`):
 
@@ -194,9 +195,10 @@ See above.
 * For descriptive comments, it’s preferable to use [DocBlock comment styles](http://en.wikipedia.org/wiki/PHPDoc).
 	* From [PEP8](http://www.python.org/dev/peps/pep-0008/#maximum-line-length): **“For flowing long blocks of text (docstrings or comments), limiting the length to 72 characters is recommended.”** I’m not totally hardcore about this restriction, but I think it looks good and makes sense.
 * For all comments, use proper capitalization and punctuation.
-* Upper case AND, OR, AS, TRUE, FALSE, etc. Example: `foreach ($this->headers AS $key=>$value) { //… }`.
+* Upper case AND, OR, AS, TRUE, FALSE, NULL, etc. Example: `foreach ($this->headers AS $key=>$value) { //… }`.
+* Curly braces **may** be omitted for single line `if`s, `for`s, `foreach`s, etc. Example: `if ($foo) echo 'bar';`.
 
-Simple example:
+General example:
 
 ```php
 <?php
@@ -210,7 +212,7 @@ Simple example:
 	//<----- No space here. Some IDEs will add space here if you hit return key after the `*/`.
 	global $page, $paged;
 	
-	wp_title('|', true, 'right');
+	wp_title('|', TRUE, 'right');
 	
 	# Add the blog name:
 	
@@ -225,6 +227,8 @@ Simple example:
 	# Add a page number if necessary:
 	
 	if ($paged >= 2 || $page >= 2) echo ' | ' . sprintf(__('Page %s', 'octavo'), max($paged, $page));
+	
+	foreach ($authors AS $author) echo '<wp:author_id>' . $author->ID . '</wp:author_id>';
 	
 ?>
 ```
