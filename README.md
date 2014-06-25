@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center">
+	<a href="https://github.com/mhulse/gh-boiler">
+		<img width="200" src="side.png">
+	</a>
+</p>
+
 ## Table of contents
 
 <img align="right" width="200" src="side.png">
