@@ -18,7 +18,7 @@
 	* IE `7.0.6002.18005`, IE `9.0.8112.16421`
 * PC XP:
 	* Firefox `14.0.1`, Chrome `24.0.1312.57 m`, Safari `5.1.7 (7534.57.2)`, Opera `12.14 (1738)`
-    * IE `6.0.2900.5512.xpsp_sp3_gdr.120504-1619`, IE `8.0.6001.18702`
+	* IE `6.0.2900.5512.xpsp_sp3_gdr.120504-1619`, IE `8.0.6001.18702`
 * iPhone (Retina 4-inch), iOS `6.1`:
 	* Safari (simulated)
 * iPhone (Retina 3.5-inch), iOS `6.1`:
