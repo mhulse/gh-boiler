@@ -107,7 +107,7 @@ Please read the [CONTRIBUTING.md](https://github.com/user/repo/blob/branch/CONTR
 
 ## Changelog [↥](#table-of-contents)
 
-* [v1.0.0 milestones](https://github.com/mhulse/gh-boiler/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
+* [v1.0.0 milestones](https://github.com/mhulse/gh-boiler/issues?direction=desc&milestone=1&page=1&sort=updated&state=closed)
 
 ## [Release history](https://github.com/user/repo/releases) [↥](#table-of-contents)
 
