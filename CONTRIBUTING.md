@@ -6,8 +6,8 @@ By following the simple guidelines below it will make your pull request easier t
 
 Please read the following guidelines before opening an issue.
 
-1. **Search for existing issues.** Make sure that the same issue hasn't already been reported and/or resolved.
-1. **Create an isolated and reproducible test case.** Be sure the problem exists in this repo's code with a reduced test case that should be included in each bug report.
+1. **Search for existing issues.** Make sure that the same issue hasn’t already been reported and/or resolved.
+1. **Create an isolated and reproducible test case.** Be sure the problem exists in this repo’s code with a reduced test case that should be included in each bug report.
 1. **Include a live example.** Make use of [jsBin](http://jsbin.com/) or [jsFiddle](http://jsfiddle.net/) to share your isolated test cases.
 1. **Share as much information as possible.** Include operating system and version, browser and version, version of this code, etc. where appropriate. Also include steps to reproduce the bug.
 
@@ -23,9 +23,9 @@ Please read the following guidelines before opening an issue.
 
 * [GitHub Flow in the Browser](https://github.com/blog/1557-github-flow-in-the-browser).
 * Install [EditorConfig](http://editorconfig.org/) plugin for your code editor.
-* If you have commit access to this repository and want to make big change (or you're not sure about something), create a new branch and open a pull request.
-* CSS changes must be done in the "preprocessed" files; never edit the compiled files.
-* If modifying the "preprocessed" files, be sure to generate and commit a compiled version of the code.
+* If you have commit access to this repository and want to make big change (or you’re not sure about something), create a new branch and open a pull request.
+* CSS changes must be done in the “preprocessed” files; never edit the compiled files.
+* If modifying the “preprocessed” files, be sure to generate and commit a compiled version of the code.
 * Try not to pollute your pull request with unintended changes--keep them simple and small.
 * When applicable, try to share which browsers your code has been tested in before submitting a pull request.
 
@@ -37,7 +37,7 @@ Unless otherwise noted, the code in this repo will be maintained under the [Sema
 <major>.<minor>.<patch>
 ```
 
-... and constructed with the following guidelines:
+… and constructed with the following guidelines:
 
 * Breaking backward compatibility bumps the major (and resets the minor and patch).
 * New additions, including new icons, without breaking backward compatibility bumps the minor (and resets the patch).
@@ -47,11 +47,11 @@ For more information on Semantic Versioning, please visit http://semver.org.
 
 ## Coding standards
 
-In general, and for anything not listed below, take care to maintain the existing coding style of the document(s) you're editing.
+In general, and for anything not listed below, take care to maintain the existing coding style of the document(s) you’re editing.
 
 ### Absolutely NO Yoda conditions!!!
 
-> Using `if (constant == variable)` instead of `if (variable == constant)`, like `if (4 == foo)`. Because it's like saying "if blue is the sky" or "if tall is the man". 
+> Using `if (constant == variable)` instead of `if (variable == constant)`, like `if (4 == foo)`. Because it’s like saying “if blue is the sky” or “if tall is the man”. 
 
 * [Coding Horror: New Programming Jargon](http://www.codinghorror.com/blog/2012/07/new-programming-jargon.html)
 
@@ -137,11 +137,13 @@ selector {
 ```
 
 1. Multiple-line approach (one property and value per line).
-1. Always add a space after a property's colon (.e.g, `display: block;`, not `display:block;`).
+1. Always add a space after a property’s colon (.e.g, `display: block;`, not `display:block;`).
 1. End all lines with a semi-colon.
 1. For multiple, comma-separated selectors, place each selector on its own line
-1. Attribute selectors, like `input[type="text"]` should always wrap the attribute's value in double quotes, for consistency and safety (see this [blog post on unquoted attribute values](http://mathiasbynens.be/notes/unquoted-attribute-values) that can lead to XSS attacks).
+1. Attribute selectors, like `input[type="text"]` should always wrap the attribute’s value in double quotes, for consistency and safety (see this [blog post on unquoted attribute values](http://mathiasbynens.be/notes/unquoted-attribute-values) that can lead to XSS attacks).
 1. For style definitions that contain a single `property: value;`, always put opening and closing curly braces on the same line (e.g., `.foo { property: value; }`).
+1. Put IDs before class attributes and put both as close to the start of tag as possible, like: `<form id="foo" class="bar" action="http://foo.com" method="get">…</form> <!-- /#foo -->`.
+1. Make sure all closing classes/IDs have an comment “identifier”, like: `<div class=".b1_ew"> … </div> <!-- /.b1_ew -->`; this make it easier to follow structure of generated HTML. Note that an `#id` trumps a `.class` when labeling the ending comment. If no `#id` and multiple `.class`es, use the first class as the comment label (assuming that it’s typically the most “important”).
 
 ### Javascript (`.js`):
 
@@ -152,12 +154,12 @@ selector {
 1. Always declare your variables with a var statement.
 1. [One var statement per scope, and that it be at the top.](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 1. Space after keywords and between arguments and operators.
-1. Don't "[equality overkill](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/)".
+1. Don’t “[equality overkill](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/)”.
 1. Avoid [spaghetti code](http://en.wikipedia.org/wiki/Spaghetti_code) and try to have one exit point for methods.
 
 ### Python (`.py`):
 
-Follow [PEP 8 -- Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/).
+Follow [PEP 8 – Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/).
 
 ### PHP: Hypertext Preprocessor (`.php`):
 
@@ -169,7 +171,7 @@ Cushion nots like this:
 <?php if ( ! is_wp_error($rss)): ?>
 ```
 
-... not this:
+… not this:
 
 ```php
 <?php if(!is_wp_error($rss)): ?>
@@ -186,11 +188,11 @@ See above.
 **Comments:**
 
 * For indent-level single line comments, use a `#` character.
-    * If the comment refers to the line after, append a ":" (colon) to end of comment (unless comment calls for some other sort of punctuation).
+    * If the comment refers to the line after, append a “:” (colon) to end of comment (unless comment calls for some other sort of punctuation).
 * For single line comments at the end of code lines, use `//` characters.
     * Because this comment refers to the line its on, put a period at end.
-* For descriptive comments, it's preferable to use [DocBlock comment styles](http://en.wikipedia.org/wiki/PHPDoc).
-    * From [PEP8](http://www.python.org/dev/peps/pep-0008/#maximum-line-length): **"For flowing long blocks of text (docstrings or comments), limiting the length to 72 characters is recommended."** I'm not totally hardcore about this restriction, but I think it looks good and makes sense.
+* For descriptive comments, it’s preferable to use [DocBlock comment styles](http://en.wikipedia.org/wiki/PHPDoc).
+    * From [PEP8](http://www.python.org/dev/peps/pep-0008/#maximum-line-length): **“For flowing long blocks of text (docstrings or comments), limiting the length to 72 characters is recommended.”** I’m not totally hardcore about this restriction, but I think it looks good and makes sense.
 * For all comments, use proper capitalization and punctuation.
 
 Simple example:
@@ -202,7 +204,7 @@ Simple example:
 	 * Description goes here.
 	 *<---- If an empty line, no space here. Example:
 	 *
-	 * Note space on other side of astrix? That's so it lines up with top/left-most `**`.
+	 * Note space on other side of astrix? That’s so it lines up with top/left-most `**`.
 	 */
 	//<----- No space here. Some IDEs will add space here if you hit return key after the `*/`.
 	global $page, $paged;
