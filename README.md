@@ -30,7 +30,7 @@
 
 <p align="center">
 	<a href="https://github.com/mhulse/gh-boiler">
-		<img width="200" src="side.png">
+		<img width="400" height="100" src="center.png">
 	</a>
 </p>
 
