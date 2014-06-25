@@ -28,6 +28,17 @@ Please read the following guidelines before opening an issue.
 * If modifying the “preprocessed” files, be sure to generate and commit a compiled version of the code.
 * Try not to pollute your pull request with unintended changes--keep them simple and small.
 * When applicable, try to share which browsers your code has been tested in before submitting a pull request.
+* If using Sublime Text, install [DocBlockr](https://github.com/spadgos/sublime-jsdocs). Here’s my DocBlockr preferences:
+
+ ```json
+ {
+ 	"jsdocs_align_tags": "no",
+ 	"jsdocs_spacer_between_sections": "after_description",
+ 	"jsdocs_newline_after_block": true,
+ 	"jsdocs_return_description": false,
+ 	"jsdocs_param_description": false
+ }
+ ```
 
 ## Versioning
 
