@@ -3,19 +3,20 @@
 # COMPILED SOURCE #
 ###################
 
-*.com
 *.class
+*.com
 *.dll
 *.exe
 *.o
+*.py[cdo]
 *.so
-*.pyc
 
 # PACKAGES #
 ############
 
 *.7z
 *.dmg
+*.egg*
 *.gz
 *.iso
 *.jar
@@ -29,27 +30,45 @@
 *.log
 *.sql
 *.sqlite
+*.db
 
 # OS GENERATED FILES #
 ######################
 
+._*
 .DS_Store
 .DS_Store?
-._*
 .Spotlight-V100
 .Trashes
-Icon^M^M
+Desktop.ini
 ehthumbs.db
+Icon^M^M
 Thumbs.db
+
+# EDITORS #
+###########
+
+*.swo
+*.swp
+*~
+.\#*
+.elc
+.project
+.pydevproject
+.settings
+/.emacs.desktop
+/.emacs.desktop.lock
+\#*\#
+auto-save-list
+tramp
 
 # MISCELLANEOUS #
 #################
 
-sitemap.xml.gz*~
-.svn
-.cvs
 *.bak
-*.swp
+.cvs
+.svn
+sitemap.xml.gz*~
 
 # PROJECT-SPECIFIC #
 ####################
