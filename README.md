@@ -58,6 +58,8 @@ Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec o
 
 ## Demonstration [↥](#table-of-contents)
 
+Click or scan:
+
 DEVELOPMENT | PRODUCTION
 :-: | :-:
 [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://user.github.io/repo/&chs=240x240)](https://github.com/user/repo) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=http://user.github.io/repo/&chs=240x240)](https://github.com/user/repo)
