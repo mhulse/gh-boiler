@@ -182,6 +182,8 @@ selector {
 1. Avoid [spaghetti code](http://en.wikipedia.org/wiki/Spaghetti_code) and try to have one exit point for methods.
 1. Always use curly braces around `if`s.
 
+As a general rule of thumb, **do not link to any `http://raw.github.com/…` scripts hosted on GitHub!** These files are being served as `text/plain` and as such being blocked in Internet Explorer on Windows 7 for instance (because of the wrong MIME type). _Bottom line:_ **GitHub is not a CDN**.
+
 ### Python (`.py`):
 
 Follow [PEP 8 – Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/).
@@ -256,10 +258,6 @@ General example:
 	
 ?>
 ```
-
-## GitHub is not a CDN!
-
-As a general rule of thumb, **do not link to any `http://raw.github.com/…` scripts hosted on GitHub!** These files are being served as `text/plain` and as such being blocked in Internet Explorer on Windows 7 for instance (because of the wrong MIME type). _Bottom line:_ **GitHub is not a CDN**.
 
 ## License
 
