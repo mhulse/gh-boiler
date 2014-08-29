@@ -56,6 +56,19 @@ Unless otherwise noted, the code in this repo will be maintained under the [Sema
 
 For more information on Semantic Versioning, please visit http://semver.org.
 
+### Process for bumping a repo’s version:
+
+In general and when applicable, depending on the repositorie’s code and structure, follow these steps to bump a version ...
+
+1. Update `version` key value in `package.json`.
+1. Update `version` key value in `bower.json`.
+1. Run a production build.
+1. Update the [changelog](/README.md#changelog) and [release history](/README.md#release-history) in the [README.md](/README.md) (if copy/pasting, don't forget to update the date and version numbers).
+1. Push changes to GitHub.
+1. Visit the [releases page](/releases) and click "[Draft a new release](/releases/new)".
+1. Type the new version number in the "Tag version" field (e.g., `v1.2.1`).
+1. Click "Publish release".
+
 ## Coding standards
 
 In general, and for anything not listed below, take care to maintain the existing coding style of the document(s) you’re editing.
