@@ -63,11 +63,11 @@ In general and when applicable, depending on the repositorie’s code and struct
 1. Update `version` key value in `package.json`.
 1. Update `version` key value in `bower.json`.
 1. Run a production build.
-1. Update the [changelog](/README.md#changelog) and [release history](/README.md#release-history) in the [README.md](/README.md) (if copy/pasting, don't forget to update the date and version numbers).
+1. Update the [changelog](/README.md#changelog) and [release history](/README.md#release-history) in the [README.md](/README.md) (if copy/pasting, don’t forget to update the date and version numbers).
 1. Push changes to GitHub.
-1. Visit the [releases page](/releases) and click "[Draft a new release](/releases/new)".
-1. Type the new version number in the "Tag version" field (e.g., `v1.2.1`).
-1. Click "Publish release".
+1. Visit repo’s releases page and click “Draft a new release”.
+1. Type the new version number in the “Tag version” field (e.g., `v1.2.1`).
+1. Click “Publish release”.
 
 ## Coding standards
 
