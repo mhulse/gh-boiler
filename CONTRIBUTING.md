@@ -257,6 +257,10 @@ General example:
 ?>
 ```
 
+## GitHub is not a CDN!
+
+As a general rule of thumb, **do not link to any `http://raw.github.com/…` scripts hosted on GitHub!** These files are being served as `text/plain` and as such being blocked in Internet Explorer on Windows 7 for instance (because of the wrong MIME type). _Bottom line:_ **GitHub is not a CDN**.
+
 ## License
 
 By contributing your code, you agree to license your contribution under the terms of the LICENSE found at the root of the repository.
