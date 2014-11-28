@@ -101,7 +101,7 @@ A quick brown fox jumps over the lazy dog.
 
 ## Contributing [↥](#table-of-contents)
 
-Please read the [CONTRIBUTING.md](/CONTRIBUTING.md).
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Feedback [↥](#table-of-contents)
 
