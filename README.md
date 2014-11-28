@@ -36,23 +36,23 @@
 
 A quick brown fox jumps over the lazy dog.
 
-### Subsection A:
+### Subsection A
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
 
-### Subsection B:
+### Subsection B
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-### Subsection C:
+### Subsection C
 
 Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
 
-### Subsection D:
+### Subsection D
 
 Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.
 
-### Subsection E:
+### Subsection E
 
 Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus.
 
@@ -75,7 +75,7 @@ A quick brown fox jumps over the lazy dog.
 
 ## Links [↥](#table-of-contents)
 
-### GitHub:
+### GitHub
 
 * [GitHub help](https://help.github.com/)
 	* [Setting up a custom domain with Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
@@ -88,13 +88,13 @@ A quick brown fox jumps over the lazy dog.
 	* [GitHub for Mac](http://mac.github.com/)
 	* [GitHub for Windows](http://windows.github.com/)
 
-### Markdown:
+### Markdown
 
 * [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
 * [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Licensing:
+### Licensing
 
 * [Choose an OSS License](http://choosealicense.com/)
 * [Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)
