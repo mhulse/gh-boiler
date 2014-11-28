@@ -48,6 +48,7 @@ Thumbs.db
 # EDITORS #
 ###########
 
+*.sublime-workspace
 *.swo
 *.swp
 *~
