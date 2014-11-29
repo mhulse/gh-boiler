@@ -26,7 +26,7 @@
 - [Release history](#release-history)
 - [LEGAL](#legal)
 
-## About [↥](#table-of-contents)
+## About [<img width="20" height="20" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
 
 <p align="center">
 	<a href="#">
@@ -56,7 +56,7 @@ Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, s
 
 Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus.
 
-## Demonstration [↥](#table-of-contents)
+## Demonstration [<img width="20" height="20" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
 
 Click or scan:
 
@@ -64,7 +64,7 @@ DEVELOPMENT | PRODUCTION
 :-: | :-:
 [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/user/repo&chs=240x240)](http://user.github.io/repo/dev/) | [![qr code](http://chart.apis.google.com/chart?cht=qr&chl=https://github.com/user/repo/&chs=240x240)](http://user.github.io/repo/prod/)
 
-## Installation [↥](#table-of-contents)
+## Installation [<img width="20" height="20" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
 
 A quick brown fox jumps over the lazy dog.
 
@@ -73,7 +73,7 @@ A quick brown fox jumps over the lazy dog.
 1. Aenean vulputate eleifend tellus.
 1. Donec vitae sapien ut libero venenatis faucibus.
 
-## Links [↥](#table-of-contents)
+## Links [<img width="20" height="20" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
 
 ### GitHub
 
@@ -99,19 +99,19 @@ A quick brown fox jumps over the lazy dog.
 * [Choose an OSS License](http://choosealicense.com/)
 * [Pick a License, Any License](http://www.codinghorror.com/blog/2007/04/pick-a-license-any-license.html)
 
-## Contributing [↥](#table-of-contents)
+## Contributing [<img width="20" height="20" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
 
 Please read the [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Feedback [↥](#table-of-contents)
+## Feedback [<img width="20" height="20" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
 
 [Bugs? Constructive feedback? Questions?](https://github.com/mhulse/gh-boiler/issues/new?title=Nymphs%20blitz%20quick%20vex%20dwarf%20jog!&body=A%20very%20bad%20quack%20might%20jinx%20zippy%20fowls%20…)
 
-## Changelog [↥](#table-of-contents)
+## Changelog [<img width="20" height="20" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
 
 * [v1.0.0 milestones](https://github.com/mhulse/gh-boiler/issues?direction=desc&milestone=1&page=1&sort=updated&state=closed)
 
-## [Release history](https://github.com/mhulse/gh-boiler/releases) [↥](#table-of-contents)
+## [Release history](https://github.com/mhulse/gh-boiler/releases) [<img width="20" height="20" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
 
 * 2013-01-01   [v1.0.0](https://github.com/mhulse/gh-boiler/releases/tag/v1.0.0)   Lorem ipsum dolor sit amet.
 * 1970-01-01   [v0.1.0](https://github.com/mhulse/gh-boiler/releases/tag/v0.1.0)   Lorem ipsum dolor sit amet.
