@@ -22,7 +22,7 @@ By following the simple guidelines below it will make your pull request easier t
 	- [PHP: Hypertext Preprocessor (`.php`)](#php-hypertext-preprocessor-php)
 - [License](#license)
 
-## Reporting issues [<img width="20" height="20" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
+## Reporting issues [<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#table-of-contents)
 
 Please read the following guidelines before opening an issue.
 
@@ -31,7 +31,7 @@ Please read the following guidelines before opening an issue.
 1. **Include a live example.** Make use of [jsBin](http://jsbin.com/) or [jsFiddle](http://jsfiddle.net/) to share your isolated test cases.
 1. **Share as much information as possible.** Include operating system and version, browser and version, version of this code, etc. where appropriate. Also include steps to reproduce the bug.
 
-## Pull requests [<img width="20" height="20" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
+## Pull requests [<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#table-of-contents)
 
 1. Fork it.
 1. Create your feature branch (`$ git checkout -b my-new-feature`).
@@ -60,7 +60,7 @@ Please read the following guidelines before opening an issue.
  }
  ```
 
-## Versioning [<img width="20" height="20" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
+## Versioning [<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#table-of-contents)
 
 Unless otherwise noted, the code in this repo will be maintained under the [Semantic Versioning guidelines](http://semver.org) as much as possible. Releases will be numbered with the following format:
 
@@ -89,7 +89,7 @@ In general and when applicable, depending on the repositorie’s code and struct
 1. Type the new version number in the “Tag version” field (e.g., `v1.2.1`).
 1. Click “Publish release”.
 
-## Coding standards [<img width="20" height="20" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
+## Coding standards [<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#table-of-contents)
 
 In general, and for anything not listed below, take care to maintain the existing coding style of the document(s) you’re editing.
 
@@ -279,6 +279,6 @@ General example:
 ?>
 ```
 
-## License [<img width="20" height="20" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b06.png" class="emoji">](#table-of-contents)
+## License [<img width="32" height="32" align="right" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#table-of-contents)
 
 By contributing your code, you agree to license your contribution under the terms of the LICENSE found at the root of the repository.
