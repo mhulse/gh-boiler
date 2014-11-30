@@ -1,4 +1,4 @@
-Quickly install (or replace) the dotfiles using `curl` and `tar`:
+Quickly install (or replace) **only** the dotfiles using `curl` and `tar`:
 
 ```bash
 # Navigate to your project‘s root:
