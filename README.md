@@ -1,9 +1,23 @@
-# GitHub boiler
+Quickly install (or replace) the dotfiles using `curl` and `tar`:
 
-[![ScreenShot](top.png)](#)
-**A quick brown fox jumps over the lazy dog.**
+```bash
+# Navigate to your project‘s root:
+$ cd foo/
+# Backup existing dotfiles (optional):
+$ mv .editorconfig .editorconfig_bak && mv .gitattributes .gitattributes_bak && mv .gitignore .gitignore_bak
+# Install dotfiles:
+$ curl -#L https://github.com/mhulse/gh-boiler/tarball/master | tar -xzv --strip-components 1 --include=*/{.editorconfig,.gitattributes,.gitignore} --exclude=*/**/*
+```
+
+Boilerplate `README.md` verbiage follows …
 
 ---
+
+# Lorem Ipsum
+
+[![ScreenShot](top.png)](#)
+
+**A quick brown fox jumps over the lazy dog.**
 
 ## Table of contents
 
