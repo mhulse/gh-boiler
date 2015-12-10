@@ -1,1 +1,1 @@
-# For more information, check out [this repo’s WIKI](../../wiki).
+# For more information, check out [this repo’s Wiki](../../wiki).
