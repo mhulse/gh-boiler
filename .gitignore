@@ -49,13 +49,14 @@ Thumbs.db
 ###########
 
 _compareTemp
-_notes
 .\#*
 .elc
 .project
 .pydevproject
 .settings
 .vscode
+[_]notes/
+*.[lL][cC][kK]
 *.mno
 *.sublime-workspace
 *.swo
