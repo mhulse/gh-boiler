@@ -48,19 +48,25 @@ Thumbs.db
 # EDITORS #
 ###########
 
-*.sublime-workspace
-*.swo
-*.swp
-*~
+_compareTemp
+_notes
 .\#*
 .elc
 .project
 .pydevproject
 .settings
+.vscode
+*.mno
+*.sublime-workspace
+*.swo
+*.swp
+*~
 /.emacs.desktop
 /.emacs.desktop.lock
 \#*\#
 auto-save-list
+configs/
+dwsync.xml
 tramp
 
 # MISCELLANEOUS #
